@@ -1,10 +1,10 @@
 Copy-and-Move-Script
 ====================
 
-<ol>
+<ul>
 <li>The purpose of this script is to give users the ability to copy or move directories (including subdirectories) or files (including the skipping of subdirectories) to a single destination of their choice. The user is asked 4 simple questions (2 of them being source/destination) and the script works through everything else for them.</li>
 <li>This script utilizes python's built in <a title="Distutils" href="http://docs.python.org/library/distutils.html">distutils</a> library to copy / move directories and files.</li>
-</ol>
+</ul>
 
 <h2>Making it Executable</h2>
 
